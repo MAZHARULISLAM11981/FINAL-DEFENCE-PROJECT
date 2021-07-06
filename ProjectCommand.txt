@@ -1,0 +1,7 @@
+Excute this command after 1st time excution
+1. npm i
+2. cd .\client\
+3. npm i
+4. cd ..
+Run the project with this command, after one excution
+5. npm run dev
